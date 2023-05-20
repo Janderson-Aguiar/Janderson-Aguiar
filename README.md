@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Janderson+Aguiar;Tenho+23+anos;Eu+sou+de+Brasília,+DF;Eu+estudo+análise+de+sistema+e+desenvolvimento+na+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Janderson+Aguiar;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=janderson-aguiar&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Janderson Aguiar github stats" /> 
@@ -9,10 +9,9 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Janderson-Aguiar&theme=gotham)
 
+Tenho 23 anos, moro em Brasília/DF, estou no início da minha jornada no universo da programação. A cada desafio enfrentado e obstáculo superado, percebo o quanto sou apaixonado por esse novo mundo repleto de aprendizados e descobertas emocionantes.
+</br>Estou em busca da minha primeira experiência profissional como programador, com o objetivo de utilizar meus conhecimentos para contribuir com o crescimento do time e continuar aprimorando minhas habilidades.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=janderson-aguiar&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center">  
 <a href="https://www.instagram.com/janderson.aguiar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
